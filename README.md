@@ -1,4 +1,4 @@
-# Google Drive File Upload Shell Script
+#  Shell script to download the gdrive files.
 
  * Download the script.
 
