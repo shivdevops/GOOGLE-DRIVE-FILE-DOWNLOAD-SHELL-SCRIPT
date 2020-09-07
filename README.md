@@ -12,7 +12,7 @@
       
   # Note:
   
-   # Before running the script note the gdrive file size,FileID and make sure the file need to download is public.Need to provide while running the shell script. 
+   ## Before running the script note the gdrive file size,FileID and make sure the file need to download is public.Need to provide while running the shell script. 
   
      * File size must noted because the downloading option will vary depends on the size atleast approximate values need to be noted.
             
@@ -37,4 +37,4 @@
             * Copy the link for sharing…like…https://drive.google.com/file/d/1Lhz13RfSdT_nKCoDla141pu5JfwaM/view?usp=sharing
             * Extrac FILEID part like from above 1Lhz13RfSdT_nKCoDla141pu5JfwaM
             
-  # Finally provide file name need to save with respective extensions like yourfilanem.pdf, yourfilename.tar.gz etc
+  ## Finally provide file name need to save with respective extensions like yourfilanem.pdf, yourfilename.tar.gz etc
